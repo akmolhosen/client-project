@@ -1,0 +1,1564 @@
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+    .container {
+        max-width: 990px;
+    }
+    /* header area */
+    #header .header-content {
+        padding: 50px 0;
+    }
+    #header .header-content p {
+        margin-bottom: 25px;
+    }
+    #header .nav-menu ul li a {
+        margin-right: 15px;
+        font-size: 16px;
+    }
+    #header .registration .login-btn {
+        font-size: 16px;
+    }
+    #header .registration .singup-btn {
+        font-size: 16px;
+    }
+    #header .header-content h1 {
+        font-size: 35px;
+    }
+    #header .header-content p {
+        font-size: 15px;
+    }
+    #header .header-content a {
+        font-size: 16px;
+    }
+    /* header area end */
+    /* photo made */
+    .photo-made .photo-made-content .photo-made-img {
+        left: -340px;
+    }
+    .photo-gallery {
+        margin-top: -46px;
+    }
+    /* photo made end */
+    /* features */
+    #features .feature-img h1 {
+        font-size: 30px;
+    }
+    #features .feature-option {
+        margin-bottom: 30px;
+    }
+    #features .feature-option .feature-content p {
+        font-size: 13px;
+    }
+    #features .feature-img a img {
+        height: 400px;
+    }
+    /* features end */
+    /* how to */
+    #how-to .work-box {
+        height: 350px;
+        width: 315px;
+    }
+    #how-to .work-box h3 {
+        font-size: 22px;
+    }
+    #how-to .work-box h1 {
+        margin-bottom: 25px;
+    }
+    #how-to .work-box p {
+        font-size: 14px;
+    }
+    /* how to ends */
+    /* testimonial */
+    #testimonial .testimonial-bg .testimonial-about h1 {
+        font-size: 30px;
+    }
+    #testimonial  .testimonial-bg .active-carousel .testimonial-content h4 {
+        font-size: 13px;
+    }
+    /* testimonial end */
+    /* client */
+    .client .client-logo span {
+        font-size: 11px;
+        width: 10%;
+    }
+    /* client ends */
+    /* faq */
+
+    #faq .questions-box .single-faq {
+        margin: 10px 14px;
+    }
+    /* faq end */
+    /* footer */
+    .footer-area .footer-items ul li a {
+        font-size: 15px;
+    }
+    .footer-area .footer-items2 ul li a {
+        font-size: 15px;
+    }
+    /* footer ends */
+/* ---------------------------------------------------------- */
+    /* about us page */
+    /* header */
+    #about-header .about-content .about-img {
+        width: 40%;
+        right: 0;
+    }
+    /* header ends */
+    /* header content */
+    #about-header .about-content h1 {
+        font-size: 35px;
+    }
+    /* header content ends */
+    /* send file */
+    .send-file .send-file-content {
+        margin-left: 50px;
+    }
+    .send-file .send-file-content h4 {
+        font-size: 12px;
+    }
+    .send-file .send-file-content .send-file-content-list p {
+        font-size: 13px;
+    }
+    .used .used-img {
+        width: 40%;
+        left: 9%;
+    }
+    /* send file ends */
+    /* used */
+    .used .used-content h1 {
+        font-size: 35px;
+    }
+    .used .used-content p {
+        font-size: 14px;
+    }
+    /* used ends */
+    /* package */
+    .package .package-content h1 {
+        font-size: 35px;
+    }
+    .package .package-content p {
+        font-size: 15px;
+    }
+    .package .package-content .package-content-img img {
+        width: 85%;
+    }
+    .package .package-content .package-content-img::before {
+        width: 85%;
+        height: 80%;
+    }
+    /* package ends */
+    /* about call action */
+    .about-action .about-action-box h1 {
+        color: #f2eee9;
+        line-height: 55px;
+        margin-bottom: 50px;
+        font-size: 30px;
+    }
+    /* about call action ends */
+    /* about us page ends */
+    /* -------------------------------------------------- */
+    /* contact us page */
+    /* contact content */
+    .contact-content .contact-text p {
+        font-size: 16px;
+    }
+    /* contact form */
+    .contact-form .contact-form-box .fname {
+        width: 46%;
+    }
+    /* contact form ends */
+    /* contact content ends */
+    /* contact us page ends */
+
+    /* -------------------------------------------------- */
+    /* couple page */
+    .couple-box .couple-box-content {
+        padding: 30px 15px;
+    }
+    .couple-box .couple-box-content .couple-folder p {
+        font-size: 14px;
+    }
+    .couple-box .couple-box-content .couple-folder .input-title {
+        padding: 14px 20px;
+    }
+    .couple-box .couple-box-content .couple-folder .input-date {
+        padding: 12px 20px;
+    }
+    .couple-box .couple-box-content .couple-folder a {
+        font-size: 14px;
+        padding: 13px 10px;
+    }
+    .couple-box .couple-img h4 {
+        font-size: 15px;
+    }
+    .couple-box .couple-img a {
+        padding: 15px 30px;
+        margin: 0px 0px;
+        font-size: 14px;
+    }
+    .couple-box .upload-event p {
+        margin-right: 40px;
+    }
+    .couple-box .upload-wedding p {
+        margin-right: 50px;
+    }
+    /* couple page ends */
+    /* ------------------------------------------------- */
+    /* guest page */
+    /* header */
+    .guest-content .guest-box .upload-box {
+        margin: 50px 35px;
+    }
+    .guest-content .guest-box p {
+        font-size: 16px;
+        margin-bottom: 35px;
+    }
+    .guest-content .guest-box .upload-box p {
+        font-size: 16px;
+    }
+    .guest-content .guest-box .one p {
+        font-size: 16px;
+    }
+    .guest-content .guest-content-img {
+        position: relative;
+        left: 20px;
+        top: 228px;
+    }
+    .guest-content .guest-content-img a img {
+        width: 110%;
+    }
+    .guest-content .guest-content-img a span {
+        width: 430px;
+        height: 645px;
+    }
+    .guest-content .guest-box .one::before {
+        width: 35%;
+        left: 12%;
+    }
+    /* header ends */
+    /* guest page ends */
+
+}
+
+ 
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+/* header area */
+
+#header .mobile-menu {
+    margin-top: 65px;
+    position: relative;
+}
+#header .mobile-menu::before {
+    position: absolute;
+    content: "NEED_HELP?";
+    left: 66px;
+    color: #8c7954;
+    font-weight: 500;
+}
+#about-header .logo {
+    margin-top: -5%;
+}
+#header .logo {
+    padding: 40px 0;
+    margin-top: -15px;
+}
+#header .logo a img {
+    width: 90%;
+}
+#header .header-content {
+    padding: 0px 0;
+}
+#header .header-content h1 {
+    font-size: 35px;
+}
+#header .registration .login-btn svg {
+    margin-top: -4px;
+}
+#about-header .registration .login-btn::before {
+    display: none;
+}
+#about-header .registration .login-btn {
+    display: inline-block;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 500;
+    color: #c19a5b;
+    padding: 10px 25px;
+    position: relative;
+    border: 1px solid #c19a5b;
+    border-radius: 50px;
+    transition: all .3s;
+}
+#about-header .registration .login-btn:hover {
+    background: #c19a5b;
+    color: #f2eee9;
+}
+#header .registration .login-btn:hover svg {
+    transform: translateY(8px);
+}
+#about-header .registration .login-btn svg {
+    margin-top: -7px;
+    transition: all .3s;
+}
+#about-header .registration .login-btn:hover svg {
+    transform: translateY(5px);
+}
+#header .registration .login-btn {
+    display: inline-block;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 500;
+    color: #c19a5b;
+    padding: 10px 25px;
+    position: relative;
+    font-size: 16px;
+    border: 1px solid #c19a5b;
+    border-radius: 50px;
+    transition: all .3s;
+}
+#header .registration .login-btn:hover {
+    background: #c19a5b;
+    color: #f2eee9;
+}
+#header .registration .login-btn::before {
+    display: none;
+}
+/* header area end */
+/* photo gallery */
+
+.photo-gallery {
+    margin-top: -75px;
+}
+.photo-gallery .single-photo {
+    width: 50%;
+    margin: auto;
+}
+
+/* photo gallery end */
+/* photo made */
+
+.photo-made {
+    margin: 36px 0;
+}
+.photo-made .photo-made-content span {
+    margin-bottom: 60px;
+}
+.photo-made .photo-made-content h1 {
+    margin-bottom: 65px;
+}
+.photo-made .photo-made-content p {
+    margin-bottom: 50px;
+
+}
+.photo-made .photo-made-content > a {
+    margin-bottom: 120px;
+}
+.photo-made .photo-made-content .photo-made-img {
+    position: absolute;
+    top: 430px;
+    left: 30px;
+    width: 100%;
+}
+.photo-made .photo-made-content .photo-made-img a img {
+    width: 140%;
+    height: 600px;
+}
+.photo-made .photo-made-content .photo-made-img {
+    left: -12px;
+}
+.photo-made .photo-made-content .photo-made-img a::before {
+    width: 140%;
+}
+
+/* photo made end */
+/* features */
+
+#features {
+    margin-top: 500px;
+    text-align: center;
+    padding-bottom: 350px;
+}
+#features .feature-option {
+    display: block;
+}
+#features .feature-option .feature-icon {
+    text-align: left;
+}
+#features .feature-img h1 {
+    margin-bottom: 60px;
+}
+#features .feature-option .feature-content p {
+    margin-top: -26px;
+    text-align: left;
+    margin-left: 20%;
+    display: block;
+}
+#features .feature-img a img {
+	width: 60%;
+}
+#features .feature-img a {
+	position: absolute;
+	top: 970px;
+	display: block;
+	left: 0;
+	width: 100%;
+}
+
+#features .feature-img a::before {
+	width: 60%;
+	position: absolute;
+	content: "";
+	top: 0px;
+	left: 139px;
+}
+
+/* features end */
+/* how to */
+
+#how-to {
+    margin-top: 200px;
+}
+#how-to .work-title h1 {
+    line-height: 60px;
+}
+#how-to .work-box {
+    margin-bottom: 35px;
+    margin-left: 50px;
+    width: 590px;
+    height: 320px;
+}
+#how-to .work-box h3 {
+    margin-bottom: 40px;
+    margin-top: -122px;
+    margin-left: 140px;
+}
+#how-to .work-box p {
+    margin-left: 140px;
+}
+
+/* how to ends */
+/* testimonial */
+
+.testimonial-title {
+    text-align: center;
+}
+#testimonial .testimonial-bg .testimonial-about h1 {
+    text-align: center;
+}
+
+/* testimonial end */
+/* client */
+
+.client .client-logo span {
+    width: 190px;
+    font-size: 15px;
+    margin-top: -20px;
+}
+.client .client-logo .client-carousel {
+    display: block;
+    width: 100%;
+    height: 200px;
+}
+.client .client-logo .client-carousel img {
+    width: 40%;
+    margin-bottom: 30px;
+}
+.client .client-logo .client-carousel h1 {
+    margin-left: 235px;
+    margin-top: -80px;
+}
+
+/* client ends */
+/* faq */
+
+.questions-box-loading .loading {
+	background: #D2C4A5;
+	width: 70%;
+	height: 5px;
+	position: relative;
+	top: 30px;
+	left: 90px;
+}
+
+/* faq ends */
+/* footer */
+
+.footer-area .footer-items {
+    margin-left: 0px;
+}
+.footer-area .footer-items2 {
+    margin-top: 45px;
+    margin-left: 0px;
+}
+/* footer ends */
+
+/* -------------------------------------------- */
+/* about us page */
+
+/* header  */
+#about-header {
+    height: 940px;
+}
+#about-header .side-menu {
+    width: 100%;
+}
+/* header  end */
+/* header content */
+#about-header .about-content h1 {
+    font-size: 35px;
+    width: 75%;
+}
+#about-header .about-content .about-img {
+    top: 545px;
+    right: 12%;
+    width: 80%;
+}
+#about-header .about-content .about-img img {
+    height: 636px;
+}
+#about-header .about-content .about-img::before {
+    height: 119%;
+}
+/* header content ends */
+/* send file */
+.send-file {
+    margin-top: 340px;
+}
+.send-file .send-file-title h1 {
+    font-size: 30px;
+    margin-left: 80px;
+}
+.send-file .send-file-content {
+    margin-top: 60px;
+    margin-left: 77px;
+}
+/* send file ends */
+/* used */
+.used {
+    margin-top: 430px;
+}
+.used .used-content {
+    padding-top: 300px;
+}
+.used .used-img {
+    top: -443px;
+    width: 65%;
+    left: 120px;
+}
+.used .used-content h1 {
+    font-size: 30px;
+}
+.used .used-content p {
+    font-size: 15px;
+    font-weight: 500;
+}
+/* used end */
+/* package */
+.package .package-content {
+    margin-top: 210px;
+    text-align: center;
+}
+.package .package-content p {
+    font-weight: 500;
+}
+.package .package-content .package-content-img {
+    top: 0%;
+    left: 0%;
+    width: 100%;
+}
+.package .package-content .package-content-img img {
+    width: 49%;
+}
+.package .package-content h1 {
+    margin-top: 185px;
+}
+.package .package-content .package-content-img::before {
+    width: 50%;
+    height: 73%;
+    left: 25%;
+}
+/* package ends */
+/* about action */
+.about-action .about-action-box {
+    padding: 60px 55px;
+}
+.about-action .about-action-box h1 {
+    font-size: 30px;
+}
+/* footer */
+.footer-area .footer-items ul li a {
+    font-size: 14px;
+}
+.footer-area .footer-items2 ul li a {
+    font-size: 14px;
+}
+/* footer ends */
+
+/* about us page end */
+/* --------------------------------------------------------- */
+/* contact us page */
+/* header */
+#contact-header .side-menu {
+    width: 100%;
+}
+#contact-header .logo {
+    margin-top: -10px;
+}
+/* header ends */
+/* contact content */
+.contact-content .contact-title {
+    text-align: center;
+    margin-top: 30px;
+}
+.contact-content .contact-text {
+    margin-top: 25px;
+    text-align: center;
+}
+.contact-content .contact-text p {
+    font-size: 15px;
+}
+/* contact content ends */
+/* contact form */
+.contact-form .contact-form-box .fname {
+    width: 46%;
+}
+/* contact form ends */
+/* contact us page ends */
+/* -------------------------------------------------------- */
+/* couple page */
+/* header */
+#contact-header .registration .login-btn {
+    color: #c19a5b;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 16px;
+    padding: 10px 35px;
+    transition: all .3s;
+    position: relative;
+    border: 1px solid #c19a5b;
+    border-radius: 50px;
+    transition: all .3s;
+}
+#contact-header .registration .login-btn:hover {
+    background: #c19a5b;
+    color: #f2eee9;
+}
+#contact-header .registration .login-btn svg {
+    transition: all .3s;
+} 
+#contact-header .registration .login-btn:hover svg {
+    transform: translateY(5px);
+}
+#contact-header .registration .login-btn::before {
+    display: none;
+}
+/* header ends */
+.couple-title .couple-content .couple-img a img {
+    width: 120px;
+    height: 120px;
+}
+.couple-title .couple-content h1 {
+    font-size: 40px;
+}
+.couple-box .couple-box-content {
+    border-radius: 50px;
+    padding: 75px 60px;
+    margin: 0 30px;
+}
+.couple-box .upload-content {
+    margin-top: -685px;
+    width: 90%;
+    margin-left: 5%;
+    padding: 40px 50px;
+}
+.couple-box .upload-event p {
+    margin-right: 50px;
+}
+.couple-box .upload-wedding .upload-wedding-btn {
+    margin-left: 242px;
+    position: relative;
+    top: -53px;
+}
+.couple-box .upload-wedding p {
+    display: block;
+}
+.couple-box .upload-wedding .upload-wedding-btn .share {
+    font-size: 14px;
+    padding: 15px 12px;
+    display: block;
+}
+.couple-box .upload-wedding .upload-wedding-btn  .delete {
+    padding: 15px 15px;
+    margin-left: 0px;
+    display: block;
+    margin-top: 10px;
+}
+.couple-box .upload-event .title-event {
+    margin-right: 5px;
+}
+.couple-box .upload-event .date {
+    margin-right: 95px;
+}
+.couple-box .couple-img {
+    position: relative;
+    bottom: -1540px;
+    margin: 0 35px;
+    padding: 100px 100px;
+}
+.couple-box .couple-img .upload-box {
+    padding: 100px 60px;
+    margin: 50px 0;
+}
+.couple-box .couple-img .upload-box p {
+    font-size: 14px;
+}
+.couple-box .couple-img a {
+    display: inline-block;
+    padding: 15px 60px;
+    margin-left: 20%;
+}
+.couple-footer-area {
+    margin-top: 845px;
+}
+/* couple page ends */
+/* ------------------------------------------------ */
+/* guest page */
+/* header */
+#guest-header .side-menu {
+    width: 100%;
+}
+#guest-header .menu-bar {
+    height: 55%;
+}
+/* header ends */
+/* guest content */
+.guest-content .guest-content-img {
+    left: 0px;
+    top: 55px;
+}
+.guest-content .guest-content-img a img {
+    border-radius: 90px;
+    border: 2px solid #8c7954;
+}
+.guest-content .guest-content-img a span {
+    width: 694px;
+    height: 647px;
+    border-radius: 91px;
+}
+.guest-content .guest-box {
+    height: 95%;
+    border-radius: 70px;
+    border: 2px solid #8c7954;
+    margin-top: 35px;
+}
+.guest-footer-area {
+    margin-top: 60px;
+}
+.guest-footer-area .guest-copyright p {
+    font-size: 20px;
+}
+/* guest content ends */
+/* guest page end */
+
+}
+
+/* Extra small Device. */
+@media (max-width: 767px) {
+    /* header */
+    #header .logo {
+        width: 36%;
+        height: 100%;
+        align-items: center;
+        display: flex;
+        margin-top: -35px;
+        margin-left: 33%;
+    }
+    #header .registration {
+        margin-top: -83px;
+    }
+    #header .registration .singup-btn {
+        font-size: 14px;
+        padding: 10px 20px;
+    }
+    #header .registration .login-btn {
+        font-size: 14px;
+        padding: 10px 20px;
+    }
+    #header .registration .login-btn svg {
+        margin-top: -4px;
+    }
+    #header .registration .login-btn::before {
+    display: none;
+    }
+    #header .registration .login-btn {
+        color: #c19a5b;
+        border: 1px solid #c19a5b;
+        border-radius: 50px;
+        transition: all .3s;
+    }
+    #header .registration .login-btn:hover {
+        background: #8c7954;
+        color: #f2eee9;
+    }
+    #header .registration .login-btn:hover svg {
+        transform: translateY(8px);
+    }
+    #header .mobile-menu {
+        margin-top: 55px;
+        position: relative;
+    }
+    #header .mobile-menu::before {
+        position: absolute;
+        content: "NEED_HELP?";
+        left: 66px;
+        color: #8c7954;
+        font-weight: 500;
+    }
+    #header .header-content {
+        padding: 0px 0;
+    }
+    #header .header-content h1 {
+        font-size: 25px;
+        line-height: 50px;
+    }
+    #header .header-content p {
+        font-size: 14px;
+    }
+    #header .header-content a {
+        font-size: 16px;
+        padding: 20px 25px;
+    }
+    /* header ends */
+    /* photo gallery */
+    .photo-gallery {
+        margin-top: -90px;
+    }
+    .photo-gallery .single-photo {
+        width: 70%;
+        margin: auto;
+    }
+    /* photo gallery */
+    /* photo made */
+.photo-made {
+    margin: 36px 0;
+}
+.photo-made .photo-made-content span {
+    margin-bottom: 60px;
+}
+.photo-made .photo-made-content h1 {
+    margin-bottom: 65px;
+}
+.photo-made .photo-made-content p {
+    margin-bottom: 50px;
+
+}
+.photo-made .photo-made-content > a {
+    margin-bottom: 120px;
+}
+.photo-made .photo-made-content .photo-made-img {
+    position: absolute;
+    top: 430px;
+    left: 30px;
+    width: 100%;
+}
+.photo-made .photo-made-content .photo-made-img a img {
+    width: 140%;
+    height: 500px;
+}
+.photo-made .photo-made-content .photo-made-img {
+    left: -12px;
+}
+.photo-made .photo-made-content .photo-made-img a::before {
+    width: 140%;
+}
+/* photo made end */
+
+/* features */
+
+#features {
+    margin-top: 500px;
+    text-align: center;
+    padding-bottom: 350px;
+}
+#features .feature-option {
+    display: block;
+}
+#features .feature-option .feature-icon {
+    text-align: left;
+}
+#features .feature-img h1 {
+    margin-bottom: 60px;
+}
+#features .feature-option .feature-content p {
+    margin-top: -26px;
+    text-align: left;
+    margin-left: 26%;
+    display: block;
+    font-size: 13px;
+}
+#features .feature-img a img {
+	width: 100%;
+	height: 440px;
+}
+#features .feature-img a {
+    position: absolute;
+    top: 970px;
+    display: block;
+    left: 45px;
+    width: 80%;
+}
+
+#features .feature-img a::before {
+    width: 100%;
+    position: absolute;
+    content: "";
+    top: 0px;
+    left: 0%;
+}
+/* features end */
+/* how to */
+#how-to {
+    margin-top: 200px;
+}
+#how-to .work-title h1 {
+    line-height: 60px;
+}
+#how-to .work-box {
+    margin-bottom: 35px;
+    margin-left: 5px;
+    width: 400px;
+    height: 260px;
+}
+#how-to .work-box h3 {
+    margin-bottom: 40px;
+    margin-top: -122px;
+    margin-left: 100px;
+    font-size: 18px;
+}
+#how-to .work-box p {
+    margin-left: 100px;
+    font-size: 13px;
+
+}
+/* how to ends */
+/* tesimonial */
+.testimonial-about {
+    text-align: center;
+}
+#testimonial  .testimonial-bg .testimonial-title span {
+    text-align: center;
+    display: inherit;
+    margin-bottom: 20px;
+}
+#testimonial .testimonial-bg .active-carousel {
+    display: block;
+    margin-left: -30px;
+}
+/* tesimonial ends */
+/* client */
+.client .client-logo span {
+    width: 190px;
+    font-size: 13px;
+    margin-top: -50px;
+}
+.client .client-logo .client-carousel {
+    display: block;
+    width: 100%;
+    height: 200px;
+}
+.client .client-logo .client-carousel img {
+    width: 40%;
+    margin-bottom: 30px;
+}
+.client .client-logo .client-carousel h1 {
+    margin-left: 195px;
+    margin-top: -64px;
+    font-size: 20px;
+}
+/* client ends */
+/* faq */
+#faq {
+    margin-top: 0px;
+}
+.questions-box-loading {
+	left: 188px;
+}
+/* footer */
+.footer-area .footer-items ul li a {
+    font-size: 16px;
+}
+.footer-area .footer-items2 ul li a {
+    font-size: 16px;
+}
+.footer-area .footer-items {
+    margin-left: 0px;
+}
+.footer-area .footer-items2 {
+    margin-left: 0px;
+}
+#faq .questions-box .single-faq .faq-content h3 {
+    font-size: 18px;
+}
+#faq .questions-box .single-faq {
+    min-height: 250px;
+}
+    /* footer ends */
+/* ----------------------------------------------- */
+/* about us page */
+/* header */
+#about-header .menu-bar {
+    margin-top: 25px;
+}
+#about-header {
+    height: 940px;
+}
+#about-header .logo {
+    margin-top: -60px;
+    width: 30%;
+    margin-left: 30%;
+}
+#about-header .registration {
+    margin-top: -26%;
+}
+#about-header .registration .login-btn {
+    font-size: 20px;
+    padding: 10px 20px;
+    border: 1px solid #c19a5b;
+    color: #c19a5b;
+    border-radius: 50px;
+    transition: all .3s;
+    font-size: 16px;
+}
+#about-header .registration .login-btn:hover {
+    background: #c19a5b;
+    color: #f2eee9;
+}
+#about-header .menu-bar p {
+    margin-left: 0px;
+    font-size: 12px;
+}
+#about-header .side-menu {
+    width: 100%;
+}
+#about-header .about-content {
+    padding: 0px 20px;
+}
+#about-header .about-content h1 {
+    font-size: 18px;
+    line-height: 30px;
+}
+/* header ends */
+/* header content */
+#about-header .about-content h1 {
+    font-size: 25px;
+    width: 75%;
+}
+#about-header .about-content .about-img {
+    top: 440px;
+    right: 10%;
+    width: 80%;
+    height: 175%;
+}
+#about-header .about-content .about-img img {
+    width: 100%;
+    border-radius: 30px;
+    height: 100%;
+}
+#about-header .about-content .about-img::before {
+    height: 100%;
+}
+/* header content ends */
+/* send file */
+.send-file .send-file-content h4 {
+    font-size: 13px;
+}
+.send-file {
+    margin-top: 210px;
+}
+.send-file .send-file-title h1 {
+    font-size: 30px;
+    margin-left: 80px;
+}
+.send-file .send-file-content {
+    margin-top: 60px;
+    margin-left: 77px;
+}
+.send-file .send-file-content .send-file-content-list p {
+    font-size: 14px;
+}
+/* send file ends */
+/* used */
+.used {
+    margin-top: 390px;
+}
+.used .used-content {
+    padding-top: 136px;
+}
+.used .used-img {
+    top: -443px;
+    width: 70%;
+    left: 75px;
+    height: 600px;
+}
+.used .used-content h1 {
+    font-size: 30px;
+}
+.used .used-content p {
+    font-size: 15px;
+    font-weight: 500;
+}
+.used .used-img img {
+    width: 100%;
+    height: 600px;
+    border-radius: 50px;
+}
+/* used end */
+/* package */
+.package .package-content {
+    margin-top: 150px;
+    text-align: center;
+}
+.package .package-content p {
+    font-weight: 500;
+}
+.package .package-content .package-content-img {
+    top: 0%;
+    left: 14%;
+    height: 565px;
+    width: 70%;
+}
+.package .package-content .package-content-img::before {
+    height: 68%;
+}
+.package .package-content h1 {
+    margin-top: 185px;
+    font-size: 35px;
+}
+.package .package-content p {
+    font-size: 14px;
+}
+.package .package-content .package-content-img::before {
+    height: 64%;
+}
+/* package ends */
+/* about action */
+.about-action .about-action-box {
+    padding: 60px 55px;
+}
+.about-action .about-action-box h1 {
+    font-size: 20px;
+}
+.about-action .about-action-box a {
+    padding: 20px 30px;
+    font-size: 14px;
+}
+/* footer */
+.footer-area .footer-items ul li a {
+    font-size: 14px;
+}
+.footer-area .footer-items2 ul li a {
+    font-size: 14px;
+}
+/* footer ends */
+
+/* about us page ends */
+/* ------------------------------------------------------------------ */
+/* contact us page */
+/* header */
+/* side bar */
+#contact-header .side-menu {
+    width: 100%;
+}
+/* side bar ends */
+#contact-header .menu-bar p {
+    font-size: 14px;
+    margin-left: 10px;
+}
+#contact-header .logo {
+    margin-top: -10px;
+}
+#contact-header .registration .singup-btn {
+    display: inline-block;
+}
+#contact-header .registration .login-btn {
+    font-size: 16px;
+    color: #8c7954;
+    border-radius: 50px;
+    border: 1px solid #8c7954;
+    transition: all .3s;
+}
+#contact-header .registration .login-btn:hover {
+    color: #f2eee9;
+    background: #8c7954;
+}
+#contact-header .registration .login-btn {
+    font-size: 16px;
+    color: #8c7954;
+    border-radius: 50px;
+    border: 1px solid #8c7954;
+    transition: all .3s;
+}
+#contact-header .registration .login-btn::before {
+display: none;
+}
+/* header ends */
+/* contact content */
+.contact-content .contact-title h1 {
+    font-size: 40px;
+}
+.contact-content .contact-title {
+    text-align: center;
+    margin-top: 30px;
+}
+.contact-content .contact-text {
+    margin-top: 25px;
+    text-align: center;
+}
+.contact-content .contact-text p {
+    font-size: 12px;
+}
+/* contact content ends */
+/* contact form */
+.contact-form .contact-form-box .fname {
+    width: 46%;
+}
+.contact-form .contact-form-box .lname {
+    width: 46%;
+}
+.contact-form .contact-form-box a {
+    padding: 15px 30px;
+    font-size: 16px;
+}
+/* contact form ends */
+/* footer */
+.footer-area .footer-items2 ul li a {
+    font-size: 12px;
+}
+.footer-area .footer-items ul li a {
+    font-size: 12px;
+}
+/* footer ends */
+/* contact us page ends */
+/* -------------------------------------------------------------- */
+/* couple page */
+#contact-header .registration .singup-btn {
+    display: inline-block;
+    font-size: 14px;
+}
+.couple-title .couple-content .couple-img a img {
+    width: 120px;
+    height: 120px;
+}
+.couple-title .couple-content h1 {
+    font-size: 40px;
+}
+.couple-box .couple-box-content {
+    border-radius: 50px;
+    padding: 75px 60px;
+    margin: 0 30px;
+}
+.couple-box .upload-content {
+    margin-top: -620px;
+    width: 90%;
+    margin-left: 5%;
+    padding: 40px 50px;
+}
+.couple-box .upload-event p {
+    margin-right: 0px;
+}
+.couple-box .upload-wedding .upload-wedding-btn {
+    margin-left: 242px;
+    position: relative;
+    top: -53px;
+}
+.couple-box .upload-wedding p {
+    display: block;
+}
+.couple-box .upload-wedding .upload-wedding-btn .share {
+    font-size: 12px;
+}
+.couple-box .upload-wedding .upload-wedding-btn  .delete {
+    padding: 15px 15px;
+    margin-left: 0px;
+    display: block;
+    margin-top: 10px;
+}
+.couple-box .upload-event .title-event {
+    margin-right: 5px;
+}
+.couple-box .upload-event .date {
+    margin-right: 95px;
+}
+.couple-box .couple-img {
+    position: relative;
+    bottom: -1440px;
+    margin: 0 35px;
+    padding: 60px 40px;
+}
+.couple-box .couple-img .upload-box {
+    padding: 100px 60px;
+    margin: 50px 0;
+}
+.couple-box .couple-img .upload-box p {
+    font-size: 14px;
+}
+.couple-box .couple-img a {
+    display: inline-block;
+    padding: 15px 60px;
+    margin-left: 20%;
+}
+
+
+.couple-footer-area {
+    margin-top: 740px;
+}
+/* couple page ends */
+
+/* guest page */
+#guest-header .menu-bar p {
+    font-size: 16px;
+    margin-top: 0;
+}
+#guest-header .menu-bar .guest-side-bar svg {
+    margin-top: 0px;
+    width: 38%;
+}
+#guest-header .menu-bar {
+    margin-top: 8px;
+}
+#guest-header .side-menu {
+    width: 100%;
+}
+.guest-content .guest-content-img {
+    left: 0px;
+    top: 45px;
+}
+.guest-content .guest-content-img a span {
+    width: 516px;
+    height: 644px;
+    border-radius: 91px;
+}
+.guest-content .guest-content-img a img {
+    border-radius: 91px;
+    border: 2px solid #8c7954;
+}
+.guest-content .guest-box .upload-box {
+    margin: 50px 25px;
+}
+.guest-content .guest-box p {
+    font-size: 16px;
+}
+.guest-content .guest-box .one p {
+    font-size: 15px;
+}
+.guest-content .guest-box .one::before {
+    width: 34%;
+    height: 44%;
+    z-index: -1;
+    left: 10%;
+    top: 15%;
+}
+.guest-content .guest-box {
+    width: 100%;
+    height: 100%;
+    border-radius: 91px;
+    border: 2px solid #8c7954;
+    margin-top: 8px;
+}
+.guest-footer-area {
+    margin-top: 70px;
+}
+.guest-footer-area .guest-copyright p {
+    font-size: 18px;
+}
+/* guest page ends */
+/* -------------------------------------------- */
+/* email template page */
+/* logo */
+.email-header .logo a img {
+    width: 40%;
+}
+/* logo ends */
+/* email template page ends */
+
+
+}
+ 
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+
+/* header  */
+#header .logo {
+    width: 80%;
+    margin-top: -14px;
+    margin-left: 10%;
+}
+#header .registration {
+    margin-top: -6px;
+}
+#about-header .menu-bar {
+    margin-top: -15px;
+}
+#about-header .menu-bar p {
+    margin-left: 37px;
+}
+#header .registration .singup-btn {
+	font-size: 14px;
+	padding: 10px 15px;
+}
+#header .mobile-menu {
+    position: relative;
+}
+#header .mobile-menu::before {
+    position: absolute;
+    content: "NEED_HELP?";
+    left: 60px;
+    color: #8c7954;
+    font-weight: 500;
+    font-size: 13px;
+    margin-top: 4px;
+}
+#header .registration .login-btn svg {
+    margin-top: -4px;
+}
+#header .registration .login-btn::before {
+display: none;
+}
+#header .registration .login-btn {
+    color: #c19a5b;
+    border: 1px solid #c19a5b;
+    border-radius: 50px;
+    transition: all .3s;
+    font-size: 12px;
+    padding: 10px 20px;
+}
+#header .registration .login-btn:hover {
+    background: #8c7954;
+    color: #f2eee9;
+}
+#header .registration .login-btn:hover svg {
+    transform: translateY(8px);
+}
+#about-header .logo {
+    margin-top: -22px;
+    width: 100%;
+    margin-left: -20%;
+}
+#about-header .registration {
+    margin-top: -10%;
+}
+#header .mobile-menu a  svg {
+    width: 40%;
+}
+/* header ends */
+    
+/* features */
+
+/* features ends */
+
+/* how to */
+#how-to .work-box {
+	margin-left: 0px;
+	width: 515px;
+}
+/* how to ends */
+
+/* faq */
+.questions-box-loading .loading {
+	left: 60px;
+}
+/* faq ends */
+/* --------------------------------------------------- */
+
+/* guest page */
+#guest-header .menu-bar p {
+    font-size: 16px;
+    margin-top: 0;
+}
+#guest-header .menu-bar .guest-side-bar svg {
+    margin-top: 0px;
+    width: 38%;
+}
+#guest-header .menu-bar {
+    margin-top: 8px;
+}
+#guest-header .side-menu {
+    width: 100%;
+}
+.guest-content .guest-content-img {
+    left: 0px;
+    top: 45px;
+}
+.guest-content .guest-content-img a span {
+    width: 516px;
+    height: 644px;
+    border-radius: 91px;
+}
+.guest-content .guest-content-img a img {
+    border-radius: 91px;
+    border: 2px solid #8c7954;
+}
+.guest-content .guest-box .upload-box {
+    margin: 50px 25px;
+}
+.guest-content .guest-box p {
+    font-size: 16px;
+}
+.guest-content .guest-box .one p {
+    font-size: 15px;
+}
+.guest-content .guest-box .one::before {
+    width: 34%;
+    height: 44%;
+    z-index: -1;
+    left: 10%;
+    top: 15%;
+}
+.guest-content .guest-box {
+    width: 100%;
+    height: 100%;
+    border-radius: 91px;
+    border: 2px solid #8c7954;
+    margin-top: 8px;
+}
+.guest-footer-area {
+    margin-top: 70px;
+}
+.guest-footer-area .guest-copyright p {
+    font-size: 18px;
+}
+/* guest page ends */
+/* --------------------------------------- */
+/* about us page */
+.package .package-content .package-content-img::before {
+    height: 73%;
+}
+}
+
+
+/* retina query */
+@media only screen and (-webkit-min-device-pixel-ratio:2) and (max-width:991.98px),only screen and (min--moz-device-pixel-ratio:2) and (max-width:991.98px),only screen and (-o-min-device-pixel-ratio:2/1) and (max-width:991.98px),only screen and (min-device-pixel-ratio:2) and (max-width:991.98px),only screen and (min-resolution:192dpi) and (max-width:991.98px),only screen and (min-resolution:2dppx) and (max-width:991.98px){
+
+.logo .standard-logo{
+  display: none;
+}
+.logo .retina-logo{
+  display: inline-block;
+}
+
+}
+
+
+@media only screen and (-webkit-min-device-pixel-ratio:2),only screen and (min--moz-device-pixel-ratio:2),only screen and (-o-min-device-pixel-ratio:2/1),only screen and (min-device-pixel-ratio:2),only screen and (min-resolution:192dpi),only screen and (min-resolution:2dppx){
+.logo .standard-logo{
+  display: none;
+}
+.logo .retina-logo{
+  display: inline-block;
+}
+
+}
